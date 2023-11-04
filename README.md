@@ -1,5 +1,4 @@
 - 👋 I'm an Android developer passionate about creating engaging and innovative mobile applications. Proficient in Java and Kotlin, I also have a strong foundation in C++, C, and Python. Currently, I'm expanding my skills into backend development with Django.
-- 🌱 Skills
 - **Languages:** Java, Kotlin, C++, C, Python
 - **Android Development:** Experience in building Android applications.
 - **Backend:** Currently learning Django for backend development.
