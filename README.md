@@ -4,7 +4,6 @@
 - **Backend:** Currently learning Django for backend development.
 - I'm currently focusing on enhancing my skills in backend development using Django and exploring new trends and best practices in Android development.
 - 👀 Connect with me to explore potential collaborations.
-- 📫 Get in Touch
 - LinkedIn: https://www.linkedin.com/in/priyanshubisht10/
 - Email: priyanshubisht451@gmail.com
 
